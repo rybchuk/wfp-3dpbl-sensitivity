@@ -1,0 +1,354 @@
+ WINDFARM Turbine #           1 : Lat, lon =    41.07153      -70.39894     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           1 : Lat, lon =    41.07153      -70.39894     , (i,j) = (         241 ,         197 ); Type =            1
+ WINDFARM Turbine #           2 : Lat, lon =    41.05482      -70.39894     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           2 : Lat, lon =    41.05482      -70.39894     , (i,j) = (         241 ,         196 ); Type =            1
+ WINDFARM Turbine #           3 : Lat, lon =    41.03812      -70.39894     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           3 : Lat, lon =    41.03812      -70.39894     , (i,j) = (         241 ,         195 ); Type =            1
+ WINDFARM Turbine #           4 : Lat, lon =    41.02142      -70.39894     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           4 : Lat, lon =    41.02142      -70.39894     , (i,j) = (         241 ,         194 ); Type =            1
+ WINDFARM Turbine #           5 : Lat, lon =    41.07153      -70.42002     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           5 : Lat, lon =    41.07153      -70.42002     , (i,j) = (         241 ,         197 ); Type =            1
+ WINDFARM Turbine #           6 : Lat, lon =    41.05482      -70.42002     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           6 : Lat, lon =    41.05482      -70.42002     , (i,j) = (         241 ,         196 ); Type =            1
+ WINDFARM Turbine #           7 : Lat, lon =    41.03812      -70.42002     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           7 : Lat, lon =    41.03812      -70.42002     , (i,j) = (         241 ,         195 ); Type =            1
+ WINDFARM Turbine #           8 : Lat, lon =    41.02142      -70.42002     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           8 : Lat, lon =    41.02142      -70.42002     , (i,j) = (         241 ,         194 ); Type =            1
+ WINDFARM Turbine #           9 : Lat, lon =    41.00471      -70.42002     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #           9 : Lat, lon =    41.00471      -70.42002     , (i,j) = (         241 ,         193 ); Type =            1
+ WINDFARM Turbine #          10 : Lat, lon =    41.07153      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          10 : Lat, lon =    41.07153      -70.44109     , (i,j) = (         240 ,         197 ); Type =            1
+ WINDFARM Turbine #          11 : Lat, lon =    41.05482      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          11 : Lat, lon =    41.05482      -70.44109     , (i,j) = (         240 ,         196 ); Type =            1
+ WINDFARM Turbine #          12 : Lat, lon =    41.03812      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          12 : Lat, lon =    41.03812      -70.44109     , (i,j) = (         240 ,         195 ); Type =            1
+ WINDFARM Turbine #          13 : Lat, lon =    41.02142      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          13 : Lat, lon =    41.02142      -70.44109     , (i,j) = (         240 ,         194 ); Type =            1
+ WINDFARM Turbine #          14 : Lat, lon =    41.00471      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          14 : Lat, lon =    41.00471      -70.44109     , (i,j) = (         240 ,         193 ); Type =            1
+ WINDFARM Turbine #          15 : Lat, lon =    40.98801      -70.44109     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          15 : Lat, lon =    40.98801      -70.44109     , (i,j) = (         240 ,         192 ); Type =            1
+ WINDFARM Turbine #          16 : Lat, lon =    41.12163      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          16 : Lat, lon =    41.12163      -70.46217     , (i,j) = (         239 ,         199 ); Type =            1
+ WINDFARM Turbine #          17 : Lat, lon =    41.10493      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          17 : Lat, lon =    41.10493      -70.46217     , (i,j) = (         239 ,         199 ); Type =            1
+ WINDFARM Turbine #          18 : Lat, lon =    41.08823      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          18 : Lat, lon =    41.08823      -70.46217     , (i,j) = (         239 ,         198 ); Type =            1
+ WINDFARM Turbine #          19 : Lat, lon =    41.07153      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          19 : Lat, lon =    41.07153      -70.46217     , (i,j) = (         239 ,         197 ); Type =            1
+ WINDFARM Turbine #          20 : Lat, lon =    41.05482      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          20 : Lat, lon =    41.05482      -70.46217     , (i,j) = (         239 ,         196 ); Type =            1
+ WINDFARM Turbine #          21 : Lat, lon =    41.03812      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          21 : Lat, lon =    41.03812      -70.46217     , (i,j) = (         239 ,         195 ); Type =            1
+ WINDFARM Turbine #          22 : Lat, lon =    41.02142      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          22 : Lat, lon =    41.02142      -70.46217     , (i,j) = (         239 ,         194 ); Type =            1
+ WINDFARM Turbine #          23 : Lat, lon =    41.00471      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          23 : Lat, lon =    41.00471      -70.46217     , (i,j) = (         239 ,         193 ); Type =            1
+ WINDFARM Turbine #          24 : Lat, lon =    40.98801      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          24 : Lat, lon =    40.98801      -70.46217     , (i,j) = (         239 ,         192 ); Type =            1
+ WINDFARM Turbine #          25 : Lat, lon =    40.97131      -70.46217     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          25 : Lat, lon =    40.97131      -70.46217     , (i,j) = (         239 ,         191 ); Type =            1
+ WINDFARM Turbine #          26 : Lat, lon =    41.12163      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          26 : Lat, lon =    41.12163      -70.48325     , (i,j) = (         238 ,         199 ); Type =            1
+ WINDFARM Turbine #          27 : Lat, lon =    41.10493      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          27 : Lat, lon =    41.10493      -70.48325     , (i,j) = (         238 ,         199 ); Type =            1
+ WINDFARM Turbine #          28 : Lat, lon =    41.08823      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          28 : Lat, lon =    41.08823      -70.48325     , (i,j) = (         238 ,         198 ); Type =            1
+ WINDFARM Turbine #          29 : Lat, lon =    41.07153      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          29 : Lat, lon =    41.07153      -70.48325     , (i,j) = (         238 ,         197 ); Type =            1
+ WINDFARM Turbine #          30 : Lat, lon =    41.05482      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          30 : Lat, lon =    41.05482      -70.48325     , (i,j) = (         238 ,         196 ); Type =            1
+ WINDFARM Turbine #          31 : Lat, lon =    41.03812      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          31 : Lat, lon =    41.03812      -70.48325     , (i,j) = (         238 ,         195 ); Type =            1
+ WINDFARM Turbine #          32 : Lat, lon =    41.02142      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          32 : Lat, lon =    41.02142      -70.48325     , (i,j) = (         238 ,         194 ); Type =            1
+ WINDFARM Turbine #          33 : Lat, lon =    41.00471      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          33 : Lat, lon =    41.00471      -70.48325     , (i,j) = (         238 ,         193 ); Type =            1
+ WINDFARM Turbine #          34 : Lat, lon =    40.98801      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          34 : Lat, lon =    40.98801      -70.48325     , (i,j) = (         238 ,         192 ); Type =            1
+ WINDFARM Turbine #          35 : Lat, lon =    40.97131      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          35 : Lat, lon =    40.97131      -70.48325     , (i,j) = (         238 ,         191 ); Type =            1
+ WINDFARM Turbine #          36 : Lat, lon =    40.95461      -70.48325     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          36 : Lat, lon =    40.95461      -70.48325     , (i,j) = (         238 ,         190 ); Type =            1
+ WINDFARM Turbine #          37 : Lat, lon =    41.10493      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          37 : Lat, lon =    41.10493      -70.50433     , (i,j) = (         237 ,         199 ); Type =            1
+ WINDFARM Turbine #          38 : Lat, lon =    41.08823      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          38 : Lat, lon =    41.08823      -70.50433     , (i,j) = (         237 ,         198 ); Type =            1
+ WINDFARM Turbine #          39 : Lat, lon =    41.07153      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          39 : Lat, lon =    41.07153      -70.50433     , (i,j) = (         237 ,         197 ); Type =            1
+ WINDFARM Turbine #          40 : Lat, lon =    41.05482      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          40 : Lat, lon =    41.05482      -70.50433     , (i,j) = (         237 ,         196 ); Type =            1
+ WINDFARM Turbine #          41 : Lat, lon =    41.03812      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          41 : Lat, lon =    41.03812      -70.50433     , (i,j) = (         237 ,         195 ); Type =            1
+ WINDFARM Turbine #          42 : Lat, lon =    41.02142      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          42 : Lat, lon =    41.02142      -70.50433     , (i,j) = (         237 ,         194 ); Type =            1
+ WINDFARM Turbine #          43 : Lat, lon =    41.00471      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          43 : Lat, lon =    41.00471      -70.50433     , (i,j) = (         237 ,         193 ); Type =            1
+ WINDFARM Turbine #          44 : Lat, lon =    40.98801      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          44 : Lat, lon =    40.98801      -70.50433     , (i,j) = (         237 ,         192 ); Type =            1
+ WINDFARM Turbine #          45 : Lat, lon =    40.97131      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          45 : Lat, lon =    40.97131      -70.50433     , (i,j) = (         237 ,         191 ); Type =            1
+ WINDFARM Turbine #          46 : Lat, lon =    40.95461      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          46 : Lat, lon =    40.95461      -70.50433     , (i,j) = (         237 ,         190 ); Type =            1
+ WINDFARM Turbine #          47 : Lat, lon =    40.93791      -70.50433     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          47 : Lat, lon =    40.93791      -70.50433     , (i,j) = (         237 ,         190 ); Type =            1
+ WINDFARM Turbine #          48 : Lat, lon =    41.08823      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          48 : Lat, lon =    41.08823      -70.52540     , (i,j) = (         236 ,         198 ); Type =            1
+ WINDFARM Turbine #          49 : Lat, lon =    41.07153      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          49 : Lat, lon =    41.07153      -70.52540     , (i,j) = (         236 ,         197 ); Type =            1
+ WINDFARM Turbine #          50 : Lat, lon =    41.05482      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          50 : Lat, lon =    41.05482      -70.52540     , (i,j) = (         236 ,         196 ); Type =            1
+ WINDFARM Turbine #          51 : Lat, lon =    41.03812      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          51 : Lat, lon =    41.03812      -70.52540     , (i,j) = (         236 ,         195 ); Type =            1
+ WINDFARM Turbine #          52 : Lat, lon =    41.02142      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          52 : Lat, lon =    41.02142      -70.52540     , (i,j) = (         236 ,         194 ); Type =            1
+ WINDFARM Turbine #          53 : Lat, lon =    41.00471      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          53 : Lat, lon =    41.00471      -70.52540     , (i,j) = (         236 ,         193 ); Type =            1
+ WINDFARM Turbine #          54 : Lat, lon =    40.98801      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          54 : Lat, lon =    40.98801      -70.52540     , (i,j) = (         236 ,         192 ); Type =            1
+ WINDFARM Turbine #          55 : Lat, lon =    40.97131      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          55 : Lat, lon =    40.97131      -70.52540     , (i,j) = (         236 ,         191 ); Type =            1
+ WINDFARM Turbine #          56 : Lat, lon =    40.95461      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          56 : Lat, lon =    40.95461      -70.52540     , (i,j) = (         236 ,         190 ); Type =            1
+ WINDFARM Turbine #          57 : Lat, lon =    40.93791      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          57 : Lat, lon =    40.93791      -70.52540     , (i,j) = (         236 ,         190 ); Type =            1
+ WINDFARM Turbine #          58 : Lat, lon =    40.92121      -70.52540     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          58 : Lat, lon =    40.92121      -70.52540     , (i,j) = (         236 ,         189 ); Type =            1
+ WINDFARM Turbine #          59 : Lat, lon =    41.07153      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          59 : Lat, lon =    41.07153      -70.54648     , (i,j) = (         235 ,         197 ); Type =            1
+ WINDFARM Turbine #          60 : Lat, lon =    41.05482      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          60 : Lat, lon =    41.05482      -70.54648     , (i,j) = (         235 ,         196 ); Type =            1
+ WINDFARM Turbine #          61 : Lat, lon =    41.03812      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          61 : Lat, lon =    41.03812      -70.54648     , (i,j) = (         235 ,         195 ); Type =            1
+ WINDFARM Turbine #          62 : Lat, lon =    41.02142      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          62 : Lat, lon =    41.02142      -70.54648     , (i,j) = (         235 ,         194 ); Type =            1
+ WINDFARM Turbine #          63 : Lat, lon =    41.00471      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          63 : Lat, lon =    41.00471      -70.54648     , (i,j) = (         235 ,         193 ); Type =            1
+ WINDFARM Turbine #          64 : Lat, lon =    40.98801      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          64 : Lat, lon =    40.98801      -70.54648     , (i,j) = (         235 ,         192 ); Type =            1
+ WINDFARM Turbine #          65 : Lat, lon =    40.97131      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          65 : Lat, lon =    40.97131      -70.54648     , (i,j) = (         235 ,         191 ); Type =            1
+ WINDFARM Turbine #          66 : Lat, lon =    40.95461      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          66 : Lat, lon =    40.95461      -70.54648     , (i,j) = (         235 ,         190 ); Type =            1
+ WINDFARM Turbine #          67 : Lat, lon =    40.93791      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          67 : Lat, lon =    40.93791      -70.54648     , (i,j) = (         235 ,         190 ); Type =            1
+ WINDFARM Turbine #          68 : Lat, lon =    40.92121      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          68 : Lat, lon =    40.92121      -70.54648     , (i,j) = (         235 ,         189 ); Type =            1
+ WINDFARM Turbine #          69 : Lat, lon =    40.90450      -70.54648     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          69 : Lat, lon =    40.90450      -70.54648     , (i,j) = (         235 ,         188 ); Type =            1
+ WINDFARM Turbine #          70 : Lat, lon =    41.05482      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          70 : Lat, lon =    41.05482      -70.56755     , (i,j) = (         235 ,         196 ); Type =            1
+ WINDFARM Turbine #          71 : Lat, lon =    41.03812      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          71 : Lat, lon =    41.03812      -70.56755     , (i,j) = (         235 ,         195 ); Type =            1
+ WINDFARM Turbine #          72 : Lat, lon =    41.02142      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          72 : Lat, lon =    41.02142      -70.56755     , (i,j) = (         235 ,         194 ); Type =            1
+ WINDFARM Turbine #          73 : Lat, lon =    41.00471      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          73 : Lat, lon =    41.00471      -70.56755     , (i,j) = (         235 ,         193 ); Type =            1
+ WINDFARM Turbine #          74 : Lat, lon =    40.98801      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          74 : Lat, lon =    40.98801      -70.56755     , (i,j) = (         235 ,         192 ); Type =            1
+ WINDFARM Turbine #          75 : Lat, lon =    40.97131      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          75 : Lat, lon =    40.97131      -70.56755     , (i,j) = (         234 ,         191 ); Type =            1
+ WINDFARM Turbine #          76 : Lat, lon =    40.95461      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          76 : Lat, lon =    40.95461      -70.56755     , (i,j) = (         234 ,         190 ); Type =            1
+ WINDFARM Turbine #          77 : Lat, lon =    40.93791      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          77 : Lat, lon =    40.93791      -70.56755     , (i,j) = (         234 ,         190 ); Type =            1
+ WINDFARM Turbine #          78 : Lat, lon =    40.92121      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          78 : Lat, lon =    40.92121      -70.56755     , (i,j) = (         234 ,         189 ); Type =            1
+ WINDFARM Turbine #          79 : Lat, lon =    40.90450      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          79 : Lat, lon =    40.90450      -70.56755     , (i,j) = (         234 ,         188 ); Type =            1
+ WINDFARM Turbine #          80 : Lat, lon =    40.88780      -70.56755     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          80 : Lat, lon =    40.88780      -70.56755     , (i,j) = (         234 ,         187 ); Type =            1
+ WINDFARM Turbine #          81 : Lat, lon =    41.03812      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          81 : Lat, lon =    41.03812      -70.58863     , (i,j) = (         234 ,         195 ); Type =            1
+ WINDFARM Turbine #          82 : Lat, lon =    41.02142      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          82 : Lat, lon =    41.02142      -70.58863     , (i,j) = (         234 ,         194 ); Type =            1
+ WINDFARM Turbine #          83 : Lat, lon =    41.00471      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          83 : Lat, lon =    41.00471      -70.58863     , (i,j) = (         234 ,         193 ); Type =            1
+ WINDFARM Turbine #          84 : Lat, lon =    40.98801      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          84 : Lat, lon =    40.98801      -70.58863     , (i,j) = (         234 ,         192 ); Type =            1
+ WINDFARM Turbine #          85 : Lat, lon =    40.97131      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          85 : Lat, lon =    40.97131      -70.58863     , (i,j) = (         234 ,         191 ); Type =            1
+ WINDFARM Turbine #          86 : Lat, lon =    40.95461      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          86 : Lat, lon =    40.95461      -70.58863     , (i,j) = (         234 ,         190 ); Type =            1
+ WINDFARM Turbine #          87 : Lat, lon =    40.93791      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          87 : Lat, lon =    40.93791      -70.58863     , (i,j) = (         234 ,         190 ); Type =            1
+ WINDFARM Turbine #          88 : Lat, lon =    40.92121      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          88 : Lat, lon =    40.92121      -70.58863     , (i,j) = (         234 ,         189 ); Type =            1
+ WINDFARM Turbine #          89 : Lat, lon =    40.90450      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          89 : Lat, lon =    40.90450      -70.58863     , (i,j) = (         234 ,         188 ); Type =            1
+ WINDFARM Turbine #          90 : Lat, lon =    40.88780      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          90 : Lat, lon =    40.88780      -70.58863     , (i,j) = (         234 ,         187 ); Type =            1
+ WINDFARM Turbine #          91 : Lat, lon =    40.87110      -70.58863     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          91 : Lat, lon =    40.87110      -70.58863     , (i,j) = (         234 ,         186 ); Type =            1
+ WINDFARM Turbine #          92 : Lat, lon =    41.02142      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          92 : Lat, lon =    41.02142      -70.60970     , (i,j) = (         233 ,         194 ); Type =            1
+ WINDFARM Turbine #          93 : Lat, lon =    41.00471      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          93 : Lat, lon =    41.00471      -70.60970     , (i,j) = (         233 ,         193 ); Type =            1
+ WINDFARM Turbine #          94 : Lat, lon =    40.98801      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          94 : Lat, lon =    40.98801      -70.60970     , (i,j) = (         233 ,         192 ); Type =            1
+ WINDFARM Turbine #          95 : Lat, lon =    40.97131      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          95 : Lat, lon =    40.97131      -70.60970     , (i,j) = (         233 ,         191 ); Type =            1
+ WINDFARM Turbine #          96 : Lat, lon =    40.95461      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          96 : Lat, lon =    40.95461      -70.60970     , (i,j) = (         233 ,         191 ); Type =            1
+ WINDFARM Turbine #          97 : Lat, lon =    40.93791      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          97 : Lat, lon =    40.93791      -70.60970     , (i,j) = (         233 ,         190 ); Type =            1
+ WINDFARM Turbine #          98 : Lat, lon =    40.92121      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          98 : Lat, lon =    40.92121      -70.60970     , (i,j) = (         233 ,         189 ); Type =            1
+ WINDFARM Turbine #          99 : Lat, lon =    40.90450      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #          99 : Lat, lon =    40.90450      -70.60970     , (i,j) = (         233 ,         188 ); Type =            1
+ WINDFARM Turbine #         100 : Lat, lon =    40.88780      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         100 : Lat, lon =    40.88780      -70.60970     , (i,j) = (         233 ,         187 ); Type =            1
+ WINDFARM Turbine #         101 : Lat, lon =    40.87110      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         101 : Lat, lon =    40.87110      -70.60970     , (i,j) = (         233 ,         186 ); Type =            1
+ WINDFARM Turbine #         102 : Lat, lon =    40.85440      -70.60970     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         102 : Lat, lon =    40.85440      -70.60970     , (i,j) = (         233 ,         185 ); Type =            1
+ WINDFARM Turbine #         103 : Lat, lon =    41.00471      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         103 : Lat, lon =    41.00471      -70.63078     , (i,j) = (         232 ,         193 ); Type =            1
+ WINDFARM Turbine #         104 : Lat, lon =    40.98801      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         104 : Lat, lon =    40.98801      -70.63078     , (i,j) = (         232 ,         192 ); Type =            1
+ WINDFARM Turbine #         105 : Lat, lon =    40.97131      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         105 : Lat, lon =    40.97131      -70.63078     , (i,j) = (         232 ,         191 ); Type =            1
+ WINDFARM Turbine #         106 : Lat, lon =    40.95461      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         106 : Lat, lon =    40.95461      -70.63078     , (i,j) = (         232 ,         191 ); Type =            1
+ WINDFARM Turbine #         107 : Lat, lon =    40.93791      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         107 : Lat, lon =    40.93791      -70.63078     , (i,j) = (         232 ,         190 ); Type =            1
+ WINDFARM Turbine #         108 : Lat, lon =    40.92121      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         108 : Lat, lon =    40.92121      -70.63078     , (i,j) = (         232 ,         189 ); Type =            1
+ WINDFARM Turbine #         109 : Lat, lon =    40.90450      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         109 : Lat, lon =    40.90450      -70.63078     , (i,j) = (         232 ,         188 ); Type =            1
+ WINDFARM Turbine #         110 : Lat, lon =    40.88780      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         110 : Lat, lon =    40.88780      -70.63078     , (i,j) = (         232 ,         187 ); Type =            1
+ WINDFARM Turbine #         111 : Lat, lon =    40.87110      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         111 : Lat, lon =    40.87110      -70.63078     , (i,j) = (         232 ,         186 ); Type =            1
+ WINDFARM Turbine #         112 : Lat, lon =    40.85440      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         112 : Lat, lon =    40.85440      -70.63078     , (i,j) = (         232 ,         185 ); Type =            1
+ WINDFARM Turbine #         113 : Lat, lon =    40.83770      -70.63078     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         113 : Lat, lon =    40.83770      -70.63078     , (i,j) = (         232 ,         184 ); Type =            1
+ WINDFARM Turbine #         114 : Lat, lon =    40.98801      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         114 : Lat, lon =    40.98801      -70.65186     , (i,j) = (         231 ,         192 ); Type =            1
+ WINDFARM Turbine #         115 : Lat, lon =    40.97131      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         115 : Lat, lon =    40.97131      -70.65186     , (i,j) = (         231 ,         191 ); Type =            1
+ WINDFARM Turbine #         116 : Lat, lon =    40.95461      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         116 : Lat, lon =    40.95461      -70.65186     , (i,j) = (         231 ,         191 ); Type =            1
+ WINDFARM Turbine #         117 : Lat, lon =    40.93791      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         117 : Lat, lon =    40.93791      -70.65186     , (i,j) = (         231 ,         190 ); Type =            1
+ WINDFARM Turbine #         118 : Lat, lon =    40.92121      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         118 : Lat, lon =    40.92121      -70.65186     , (i,j) = (         231 ,         189 ); Type =            1
+ WINDFARM Turbine #         119 : Lat, lon =    40.90450      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         119 : Lat, lon =    40.90450      -70.65186     , (i,j) = (         231 ,         188 ); Type =            1
+ WINDFARM Turbine #         120 : Lat, lon =    40.88780      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         120 : Lat, lon =    40.88780      -70.65186     , (i,j) = (         231 ,         187 ); Type =            1
+ WINDFARM Turbine #         121 : Lat, lon =    40.87110      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         121 : Lat, lon =    40.87110      -70.65186     , (i,j) = (         231 ,         186 ); Type =            1
+ WINDFARM Turbine #         122 : Lat, lon =    40.85440      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         122 : Lat, lon =    40.85440      -70.65186     , (i,j) = (         231 ,         185 ); Type =            1
+ WINDFARM Turbine #         123 : Lat, lon =    40.83770      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         123 : Lat, lon =    40.83770      -70.65186     , (i,j) = (         231 ,         184 ); Type =            1
+ WINDFARM Turbine #         124 : Lat, lon =    40.82100      -70.65186     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         124 : Lat, lon =    40.82100      -70.65186     , (i,j) = (         231 ,         183 ); Type =            1
+ WINDFARM Turbine #         125 : Lat, lon =    40.97131      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         125 : Lat, lon =    40.97131      -70.67294     , (i,j) = (         230 ,         191 ); Type =            1
+ WINDFARM Turbine #         126 : Lat, lon =    40.95461      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         126 : Lat, lon =    40.95461      -70.67294     , (i,j) = (         230 ,         191 ); Type =            1
+ WINDFARM Turbine #         127 : Lat, lon =    40.93791      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         127 : Lat, lon =    40.93791      -70.67294     , (i,j) = (         230 ,         190 ); Type =            1
+ WINDFARM Turbine #         128 : Lat, lon =    40.92121      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         128 : Lat, lon =    40.92121      -70.67294     , (i,j) = (         230 ,         189 ); Type =            1
+ WINDFARM Turbine #         129 : Lat, lon =    40.90450      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         129 : Lat, lon =    40.90450      -70.67294     , (i,j) = (         230 ,         188 ); Type =            1
+ WINDFARM Turbine #         130 : Lat, lon =    40.88780      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         130 : Lat, lon =    40.88780      -70.67294     , (i,j) = (         230 ,         187 ); Type =            1
+ WINDFARM Turbine #         131 : Lat, lon =    40.87110      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         131 : Lat, lon =    40.87110      -70.67294     , (i,j) = (         230 ,         186 ); Type =            1
+ WINDFARM Turbine #         132 : Lat, lon =    40.85440      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         132 : Lat, lon =    40.85440      -70.67294     , (i,j) = (         230 ,         185 ); Type =            1
+ WINDFARM Turbine #         133 : Lat, lon =    40.83770      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         133 : Lat, lon =    40.83770      -70.67294     , (i,j) = (         230 ,         184 ); Type =            1
+ WINDFARM Turbine #         134 : Lat, lon =    40.82100      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         134 : Lat, lon =    40.82100      -70.67294     , (i,j) = (         230 ,         183 ); Type =            1
+ WINDFARM Turbine #         135 : Lat, lon =    40.80429      -70.67294     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         135 : Lat, lon =    40.80429      -70.67294     , (i,j) = (         230 ,         182 ); Type =            1
+ WINDFARM Turbine #         136 : Lat, lon =    40.95461      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         136 : Lat, lon =    40.95461      -70.69402     , (i,j) = (         229 ,         191 ); Type =            1
+ WINDFARM Turbine #         137 : Lat, lon =    40.93791      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         137 : Lat, lon =    40.93791      -70.69402     , (i,j) = (         229 ,         190 ); Type =            1
+ WINDFARM Turbine #         138 : Lat, lon =    40.92121      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         138 : Lat, lon =    40.92121      -70.69402     , (i,j) = (         229 ,         189 ); Type =            1
+ WINDFARM Turbine #         139 : Lat, lon =    40.90450      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         139 : Lat, lon =    40.90450      -70.69402     , (i,j) = (         229 ,         188 ); Type =            1
+ WINDFARM Turbine #         140 : Lat, lon =    40.88780      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         140 : Lat, lon =    40.88780      -70.69402     , (i,j) = (         229 ,         187 ); Type =            1
+ WINDFARM Turbine #         141 : Lat, lon =    40.87110      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         141 : Lat, lon =    40.87110      -70.69402     , (i,j) = (         229 ,         186 ); Type =            1
+ WINDFARM Turbine #         142 : Lat, lon =    40.85440      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         142 : Lat, lon =    40.85440      -70.69402     , (i,j) = (         229 ,         185 ); Type =            1
+ WINDFARM Turbine #         143 : Lat, lon =    40.83770      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         143 : Lat, lon =    40.83770      -70.69402     , (i,j) = (         229 ,         184 ); Type =            1
+ WINDFARM Turbine #         144 : Lat, lon =    40.82100      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         144 : Lat, lon =    40.82100      -70.69402     , (i,j) = (         229 ,         183 ); Type =            1
+ WINDFARM Turbine #         145 : Lat, lon =    40.80429      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         145 : Lat, lon =    40.80429      -70.69402     , (i,j) = (         229 ,         182 ); Type =            1
+ WINDFARM Turbine #         146 : Lat, lon =    40.78759      -70.69402     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         146 : Lat, lon =    40.78759      -70.69402     , (i,j) = (         229 ,         182 ); Type =            1
+ WINDFARM Turbine #         147 : Lat, lon =    40.93791      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         147 : Lat, lon =    40.93791      -70.71509     , (i,j) = (         228 ,         190 ); Type =            1
+ WINDFARM Turbine #         148 : Lat, lon =    40.92121      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         148 : Lat, lon =    40.92121      -70.71509     , (i,j) = (         228 ,         189 ); Type =            1
+ WINDFARM Turbine #         149 : Lat, lon =    40.90450      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         149 : Lat, lon =    40.90450      -70.71509     , (i,j) = (         228 ,         188 ); Type =            1
+ WINDFARM Turbine #         150 : Lat, lon =    40.88780      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         150 : Lat, lon =    40.88780      -70.71509     , (i,j) = (         228 ,         187 ); Type =            1
+ WINDFARM Turbine #         151 : Lat, lon =    40.87110      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         151 : Lat, lon =    40.87110      -70.71509     , (i,j) = (         228 ,         186 ); Type =            1
+ WINDFARM Turbine #         152 : Lat, lon =    40.85440      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         152 : Lat, lon =    40.85440      -70.71509     , (i,j) = (         228 ,         185 ); Type =            1
+ WINDFARM Turbine #         153 : Lat, lon =    40.83770      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         153 : Lat, lon =    40.83770      -70.71509     , (i,j) = (         228 ,         184 ); Type =            1
+ WINDFARM Turbine #         154 : Lat, lon =    40.82100      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         154 : Lat, lon =    40.82100      -70.71509     , (i,j) = (         228 ,         183 ); Type =            1
+ WINDFARM Turbine #         155 : Lat, lon =    40.80429      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         155 : Lat, lon =    40.80429      -70.71509     , (i,j) = (         228 ,         182 ); Type =            1
+ WINDFARM Turbine #         156 : Lat, lon =    40.78759      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         156 : Lat, lon =    40.78759      -70.71509     , (i,j) = (         228 ,         182 ); Type =            1
+ WINDFARM Turbine #         157 : Lat, lon =    40.77089      -70.71509     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         157 : Lat, lon =    40.77089      -70.71509     , (i,j) = (         228 ,         181 ); Type =            1
+ WINDFARM Turbine #         158 : Lat, lon =    40.92121      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         158 : Lat, lon =    40.92121      -70.73617     , (i,j) = (         228 ,         189 ); Type =            1
+ WINDFARM Turbine #         159 : Lat, lon =    40.90450      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         159 : Lat, lon =    40.90450      -70.73617     , (i,j) = (         228 ,         188 ); Type =            1
+ WINDFARM Turbine #         160 : Lat, lon =    40.88780      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         160 : Lat, lon =    40.88780      -70.73617     , (i,j) = (         228 ,         187 ); Type =            1
+ WINDFARM Turbine #         161 : Lat, lon =    40.87110      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         161 : Lat, lon =    40.87110      -70.73617     , (i,j) = (         228 ,         186 ); Type =            1
+ WINDFARM Turbine #         162 : Lat, lon =    40.85440      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         162 : Lat, lon =    40.85440      -70.73617     , (i,j) = (         228 ,         185 ); Type =            1
+ WINDFARM Turbine #         163 : Lat, lon =    40.83770      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         163 : Lat, lon =    40.83770      -70.73617     , (i,j) = (         228 ,         184 ); Type =            1
+ WINDFARM Turbine #         164 : Lat, lon =    40.82100      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         164 : Lat, lon =    40.82100      -70.73617     , (i,j) = (         228 ,         183 ); Type =            1
+ WINDFARM Turbine #         165 : Lat, lon =    40.80429      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         165 : Lat, lon =    40.80429      -70.73617     , (i,j) = (         228 ,         182 ); Type =            1
+ WINDFARM Turbine #         166 : Lat, lon =    40.78759      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         166 : Lat, lon =    40.78759      -70.73617     , (i,j) = (         228 ,         182 ); Type =            1
+ WINDFARM Turbine #         167 : Lat, lon =    40.77089      -70.73617     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         167 : Lat, lon =    40.77089      -70.73617     , (i,j) = (         228 ,         181 ); Type =            1
+ WINDFARM Turbine #         168 : Lat, lon =    40.90450      -70.75724     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         168 : Lat, lon =    40.90450      -70.75724     , (i,j) = (         227 ,         188 ); Type =            1
+ WINDFARM Turbine #         169 : Lat, lon =    40.88780      -70.75724     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         169 : Lat, lon =    40.88780      -70.75724     , (i,j) = (         227 ,         187 ); Type =            1
+ WINDFARM Turbine #         170 : Lat, lon =    40.87110      -70.75724     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         170 : Lat, lon =    40.87110      -70.75724     , (i,j) = (         227 ,         186 ); Type =            1
+ WINDFARM Turbine #         171 : Lat, lon =    40.85440      -70.75724     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         171 : Lat, lon =    40.85440      -70.75724     , (i,j) = (         227 ,         185 ); Type =            1
+ WINDFARM Turbine #         172 : Lat, lon =    40.88780      -70.77832     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         172 : Lat, lon =    40.88780      -70.77832     , (i,j) = (         226 ,         187 ); Type =            1
+ WINDFARM Turbine #         173 : Lat, lon =    40.87110      -70.77832     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         173 : Lat, lon =    40.87110      -70.77832     , (i,j) = (         226 ,         186 ); Type =            1
+ WINDFARM Turbine #         174 : Lat, lon =    40.85440      -70.77832     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         174 : Lat, lon =    40.85440      -70.77832     , (i,j) = (         226 ,         185 ); Type =            1
+ WINDFARM Turbine #         175 : Lat, lon =    40.87110      -70.79939     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         175 : Lat, lon =    40.87110      -70.79939     , (i,j) = (         225 ,         186 ); Type =            1
+ WINDFARM Turbine #         176 : Lat, lon =    40.85440      -70.79939     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         176 : Lat, lon =    40.85440      -70.79939     , (i,j) = (         225 ,         185 ); Type =            1
+ WINDFARM Turbine #         177 : Lat, lon =    40.85440      -70.82047     ; Type =            1
+d01 2020-06-06_19:00:00  WINDFARM Turbine #         177 : Lat, lon =    40.85440      -70.82047     , (i,j) = (         224 ,         185 ); Type =            1

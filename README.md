@@ -1,1 +1,1 @@
-# wfp-3dpbl-sensitivity
+This repo contains supporting material for "The Sensitivity of the Fitch Wind Farm Parameterization to a Three-Dimensional Planetary Boundary Layer Scheme" (in prep.). The main purpose of this repo is to house much of the data from the citable Zenodo record (https://doi.org/10.5281/zenodo.5565399) in a format that is quick to view.
